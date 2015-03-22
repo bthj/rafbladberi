@@ -1,0 +1,1 @@
+Sækir dagblöð frá t.d. mbl.is og visir.is, svo blöð dagsins standa opin á skjáborðinu í byrjun dags.
